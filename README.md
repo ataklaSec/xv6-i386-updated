@@ -5,8 +5,7 @@ xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern x86-based multiprocessor using ANSI C.
 
-The original README is included. please refer to that for further information about xv6
-and implementaiton.
+The original README is included. please refer to that for further information about xv6.
 
 My version of xv6 was ported back to i386 for a small laptop i have wanted to use for a project.
 
