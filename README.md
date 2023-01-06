@@ -20,3 +20,7 @@ https://fuel.edby.coffee/posts/how-we-ported-xv6-os-to-a-home-built-cpu-with-a-h
 and This is their git repository for their xv6, ported for a cpu they made for their class. 
 
 https://github.com/nyuichi/xv6
+
+At the moment the user programs: "as" (assembly implementation developed by the tokyo univesity team), "sl" and "2048" are not functioning.
+
+The "vi" and "minesweeper" programs work but are buggy. 
